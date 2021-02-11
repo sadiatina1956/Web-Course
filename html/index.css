@@ -1,0 +1,30 @@
+.main {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.header {
+  color: red;
+}
+
+.header-part,
+.body-part,
+.footer-part {
+  border: 2px solid black;
+  padding: 5%;
+  margin-top: 1%;
+}
+.body-part,
+.header-part {
+  background-color: gray;
+  color: white;
+}
+
+.title {
+  border: 2px solid black;
+  padding: 2%;
+  background-color: cornflowerblue;
+}
+.title h1 {
+  margin-left: 25%;
+}
